@@ -1,0 +1,2 @@
+# FlowerShop
+这是一个基于ssm的网上花店管理系统，已在eclipseee上成功调试运行
